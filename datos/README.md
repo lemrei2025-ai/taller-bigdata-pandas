@@ -7,13 +7,13 @@ Los datos **no se incluyen** en el repositorio (pesan alrededor de 120 MB y tien
 1. Descargue el dataset desde Kaggle: <https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce> (botón **Download**; se necesita una cuenta gratuita).
 2. Descomprima el ZIP.
 3. **Trabajo local:** copie los CSV en esta carpeta `datos/`.
-   **En Colab:** abra el panel de archivos 📁, cree una carpeta `datos` y suba los CSV ahí. Estos archivos se borran al cerrar la sesión.
+   **En Colab:** abra el panel de archivos (ícono de carpeta), cree una carpeta `datos` y suba los CSV ahí. Estos archivos se borran al cerrar la sesión.
 
 ## Opción 2 · Google Drive compartido (recomendada para clase)
 
 1. El docente sube los CSV a una carpeta llamada **`olist`** en su Drive y la comparte con el grupo.
 2. Cada estudiante agrega la carpeta a **Mi unidad** (clic derecho → *Organizar* → *Agregar acceso directo* → *Mi unidad*).
-3. En Colab: panel de archivos 📁 → **Montar Drive**. El notebook encontrará `/content/drive/MyDrive/olist`.
+3. En Colab: panel de archivos (ícono de carpeta) → **Montar Drive**. El notebook encontrará `/content/drive/MyDrive/olist`.
 
 ## Opción 3 · Descarga automática desde Kaggle
 

@@ -6,10 +6,10 @@ Taller en dos fases sobre una misma empresa: el *marketplace* brasileño **Olist
 
 | Semana | Tema | Notebook | Abrir en Colab |
 |---|---|---|---|
-| 6 | Ventajas de aplicar Big Data y riesgos de no usar los datos | [`semana06_costo_de_no_mirar_los_datos.ipynb`](notebooks/semana06_costo_de_no_mirar_los_datos.ipynb) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/taller-bigdata-pandas/blob/main/notebooks/semana06_costo_de_no_mirar_los_datos.ipynb) |
-| 7 | El universo de los datos y dónde se encuentran (cap. 3, Joyanes) | [`semana07_cazando_datos.ipynb`](notebooks/semana07_cazando_datos.ipynb) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/taller-bigdata-pandas/blob/main/notebooks/semana07_cazando_datos.ipynb) |
+| 6 | Ventajas de aplicar Big Data y riesgos de no usar los datos | [`semana06_costo_de_no_mirar_los_datos.ipynb`](notebooks/semana06_costo_de_no_mirar_los_datos.ipynb) | [Abrir en Colab](https://colab.research.google.com/github/USUARIO/taller-bigdata-pandas/blob/main/notebooks/semana06_costo_de_no_mirar_los_datos.ipynb) |
+| 7 | El universo de los datos y dónde se encuentran (cap. 3, Joyanes) | [`semana07_cazando_datos.ipynb`](notebooks/semana07_cazando_datos.ipynb) | [Abrir en Colab](https://colab.research.google.com/github/USUARIO/taller-bigdata-pandas/blob/main/notebooks/semana07_cazando_datos.ipynb) |
 
-> ⚠️ **Antes de publicar:** reemplace `USUARIO` en los enlaces de Colab por su nombre de usuario de GitHub (y `taller-bigdata-pandas` si le pone otro nombre al repositorio).
+> **Antes de publicar:** reemplace `USUARIO` en los enlaces de Colab por su nombre de usuario de GitHub (y `taller-bigdata-pandas` si le pone otro nombre al repositorio).
 
 ---
 
@@ -56,7 +56,7 @@ taller-bigdata-pandas/
     └── soluciones/           # Notebooks resueltos
 ```
 
-> 🔒 **Sobre las soluciones:** si el repositorio es público, los estudiantes podrán ver la carpeta `docente/soluciones/`. Si no quiere eso, bórrela antes de subir el repositorio y guárdela aparte, o mantenga una copia privada del repositorio para usted.
+> **Sobre las soluciones:** si el repositorio es público, los estudiantes podrán ver la carpeta `docente/soluciones/`. Si no quiere eso, bórrela antes de subir el repositorio y guárdela aparte, o mantenga una copia privada del repositorio para usted.
 
 ---
 
@@ -65,7 +65,7 @@ taller-bigdata-pandas/
 ### Estudiantes (Google Colab, recomendado)
 1. Haga clic en el botón **Abrir en Colab** de la semana correspondiente.
 2. **Archivo → Guardar una copia en Drive.**
-3. Ejecute las celdas en orden. Complete las celdas marcadas con ✏️ y responda las preguntas marcadas con 💬.
+3. Ejecute las celdas en orden. Complete las celdas marcadas **COMPLETE AQUÍ** y responda las preguntas numeradas.
 
 No hay que instalar nada: Colab ya trae pandas, matplotlib y requests.
 

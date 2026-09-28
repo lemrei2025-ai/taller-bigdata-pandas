@@ -7,7 +7,7 @@
 | 6 | El estudiante identifica, **con cifras**, las ventajas de usar los datos de una organización y los riesgos de no hacerlo. |
 | 7 | El estudiante valora el universo de los datos: reconoce las fuentes según el capítulo 3 de Joyanes, distingue datos estructurados, semiestructurados y no estructurados, y entiende por qué el volumen exige herramientas de Big Data. |
 
-**Nivel de programación requerido:** básico. Las celdas ✏️ solo piden completar un nombre de columna o de método. El peso del taller está en la **interpretación**.
+**Nivel de programación requerido:** básico. Las celdas COMPLETE AQUÍ solo piden completar un nombre de columna o de método. El peso del taller está en la **interpretación**.
 
 **Organización sugerida:** equipos de 2 o 3 estudiantes, un computador por equipo, sesiones de unas 2 horas.
 
@@ -76,8 +76,8 @@ Las cifras exactas las obtiene al correr la solución con los datos reales. Esta
 
 | Criterio | Peso | Excelente | Aceptable | Insuficiente |
 |---|---|---|---|---|
-| Código | 30 % | Todas las celdas ✏️ completas y el notebook se ejecuta sin errores | Algunas celdas con errores menores | La mayoría de las celdas sin completar o con errores |
-| Interpretación | 30 % | Las respuestas 💬 usan las cifras obtenidas y las explican | Las respuestas son correctas pero generales, sin cifras | Respuestas ausentes o que no corresponden a los resultados |
+| Código | 30 % | Todas las celdas COMPLETE AQUÍ completas y el notebook se ejecuta sin errores | Algunas celdas con errores menores | La mayoría de las celdas sin completar o con errores |
+| Interpretación | 30 % | Las respuestas a las preguntas usan las cifras obtenidas y las explican | Las respuestas son correctas pero generales, sin cifras | Respuestas ausentes o que no corresponden a los resultados |
 | Semana 6: beneficios y riesgos · Semana 7: clasificación de fuentes | 25 % | Tabla completa, con cifras, áreas y categorías bien asignadas y justificadas | Tabla incompleta o con errores de clasificación | Tabla ausente |
 | Comunicación | 15 % | Pitch (S6) o conclusión (S7) claro, persuasivo y apoyado en datos | Claro pero sin apoyo en datos | Confuso o ausente |
 
