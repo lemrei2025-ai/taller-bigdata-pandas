@@ -1,0 +1,7 @@
+pandas>=2.0
+matplotlib>=3.7
+pyarrow>=14.0
+requests>=2.31
+kagglehub>=0.3
+psutil>=5.9
+jupyter
