@@ -46,6 +46,7 @@ También discuten datos personales (Ley 1581 de 2012) y terminan con un **invent
 taller-bigdata-pandas/
 ├── README.md
 ├── requirements.txt          # Solo si se trabaja fuera de Colab
+├── documentacion.md          # Glosario con enlaces a la documentación oficial
 ├── notebooks/                # Versión para estudiantes (con espacios ___ por completar)
 │   ├── semana06_costo_de_no_mirar_los_datos.ipynb
 │   └── semana07_cazando_datos.ipynb
@@ -76,6 +77,9 @@ cd taller-bigdata-pandas
 pip install -r requirements.txt
 jupyter notebook
 ```
+
+### Documentación para consultar
+Cada sección de los notebooks termina con una tabla de los términos usados (`.dt`, `merge`, `groupby`, `json_normalize`…) y el enlace a su documentación oficial. El glosario completo está en [`documentacion.md`](documentacion.md).
 
 ### Datos
 Los notebooks buscan los archivos de Olist automáticamente (carpeta `datos/`, Google Drive o descarga desde Kaggle). Vea [`datos/README.md`](datos/README.md).
